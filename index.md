@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# The Complete Flutter Development Bootcamp with Dart
+In September 2019 I completed this course in Flutter development made in collaboration with the Google Flutter team, taught by Angela Yu and hosted by Udemy. This post showcases the projects written in the course in reverse chronological order.
 
-You can use the [editor on GitHub](https://github.com/sebastianlundquist/sebastianlundquist.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## TODO List App
+[View on GitHub](https://github.com/sebastianlundquist/todobedo)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Todobedo app gif](https://raw.github.com/sebastianlundquist/todobedo/master/todobedo.gif)
 
-### Markdown
+## Instant Messenger
+[View on GitHub](https://github.com/sebastianlundquist/flash-chat)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Flash Chat app gif](https://raw.github.com/sebastianlundquist/flash-chat/master/flash-chat.gif)
 
-```markdown
-Syntax highlighted code block
+# Cryptocurrency Monitor
+[View on GitHub](https://github.com/sebastianlundquist/bitcoin-ticker)
 
-# Header 1
-## Header 2
-### Header 3
+![Bitcoin Ticker app gif](https://raw.github.com/sebastianlundquist/bitcoin-ticker/master/coin-ticker.gif)
 
-- Bulleted
-- List
+# Weather App
+[View on GitHub](https://github.com/sebastianlundquist/clima)
 
-1. Numbered
-2. List
+![Clima app gif](https://raw.github.com/sebastianlundquist/clima/master/clima.gif)
 
-**Bold** and _Italic_ and `Code` text
+# BMI Calculator
+[View on GitHub](https://github.com/sebastianlundquist/bmi-calculator)
 
-[Link](url) and ![Image](src)
-```
+![BMI Calculator app gif](https://raw.github.com/sebastianlundquist/bmi-calculator/master/bmi-calculator.gif)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Choose Your Own Adventure
+[View on GitHub](https://github.com/sebastianlundquist/destini)
 
-### Jekyll Themes
+![Destini app gif](https://raw.github.com/sebastianlundquist/destini/master/destini.gif)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebastianlundquist/sebastianlundquist.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Quiz App
+[View on GitHub](https://github.com/sebastianlundquist/quizzler)
 
-### Support or Contact
+![Quizzler app gif](https://raw.github.com/sebastianlundquist/quizzler/master/quizzler.gif)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Xylophone
+[View on GitHub](https://github.com/sebastianlundquist/xylophone)
+
+![Xylophone app gif](https://raw.github.com/sebastianlundquist/xylophone/master/xylophone.gif)
+
+# Magic 8-Ball
+[View on GitHub](https://github.com/sebastianlundquist/magic-8-ball)
+
+![Magic 8-ball app gif](https://raw.github.com/sebastianlundquist/magic-8-ball/master/magic-8-ball.gif)
+
+# Dice App
+[View on GitHub](https://github.com/sebastianlundquist/dicee)
+
+![Dicee app gif](https://raw.github.com/sebastianlundquist/dicee/master/dicee.gif)
+
+# Digital Business Card
+[View on GitHub](https://github.com/sebastianlundquist/mi-card)
+
+![Mi-card app gif](https://raw.github.com/sebastianlundquist/mi-card/master/mi-card.png)
