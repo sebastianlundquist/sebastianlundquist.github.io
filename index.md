@@ -200,6 +200,7 @@ This app allows the user to login as either a rider to request for an Џвєг o
 These games were developed using the java library libGDX.
 
 [View Floppy Birb on GitHub](https://github.com/sebastianlundquist/floppy-birb)
+
 [View Coin Man on GitHub](https://github.com/sebastianlundquist/coin-man)
 
 ### What These Projects Taught Me
@@ -266,4 +267,110 @@ This simple app runs on your smartwatch and counts people (or anything, really).
 * How to build custom watch faces
 
 ### People Counter in Action
-![People Counter gif]()
+![People Counter gif](https://raw.github.com/sebastianlundquist/people-counter/master/people-counter.gif)
+
+## Brain Trainer
+This game challenges the player to answer as many simple math questions as possible before the time runs out.
+
+[View on GitHub](https://github.com/sebastianlundquist/brain-trainer)
+
+### What This Project Taught Me
+* How to toggle visibility of elements
+
+### Brain Trainer in Action
+![Brain Trainer gif](https://raw.github.com/sebastianlundquist/brain-trainer/master/brain-trainer.gif)
+
+## Egg Timer
+This project introduces timers and plays a sound when the time runs out.
+
+[View on GitHub](https://github.com/sebastianlundquist/egg-timer)
+
+### What This Project Taught Me
+* How to use Handlers, Runnables and CountDownTimers
+* How to update the state of UI components programmatically
+
+### Egg Timer in Action
+![Egg Timer gif](https://raw.github.com/sebastianlundquist/egg-timer/master/egg-timer.gif)
+
+## Multiplication Tables
+This app uses a list view and a slider to display the different multiplication tables.
+
+[View on GitHub](https://github.com/sebastianlundquist/multiplication-tables)
+
+### What This Project Taught Me
+* How to use list views and adapters
+* How to use different types of list items
+* How to use sliders
+
+### Multiplication Tables in Action
+![Multiplication Tables gif](https://raw.github.com/sebastianlundquist/multiplication-tables/master/multiplication-tables.gif)
+
+## Basic Phrases
+This app plays audio recordings of simple phrases in French.
+
+[View on GitHub](https://github.com/sebastianlundquist/basic-phrases)
+
+### What This Project Taught Me
+* How to add audio assets to Android projects
+* How to use the media player
+* How to control audio and volume
+
+### Basic Phrases in Action
+![Basic Phrases](https://raw.github.com/sebastianlundquist/basic-phrases/master/basic-phrases.png)
+
+## Connect Three
+This tic-tac-toe style game uses animations to become a little more exciting.
+
+[View on GitHub](https://github.com/sebastianlundquist/connect-three)
+
+### What This Project Taught Me
+* How to implement different kinds of animations
+* How to combine several animations into one
+* How to use tags
+
+### Connect Three in Action
+![Connect Three gif](https://raw.github.com/sebastianlundquist/connect-three/master/connect-three.gif)
+
+## Higher or Lower? and Number Shapes
+These simple projects teach the fundamentals of Java Android development.
+
+[View Higher or Lower? on GitHub](https://github.com/sebastianlundquist/higher-or-lower)
+
+[View Number Shapes on GitHub](https://github.com/sebastianlundquist/number-shapes)
+
+### What These Projects Taught Me
+* Java syntax and fundamentals
+
+### Higher or Lower? in Action
+![Higher or Lower? gif](https://raw.github.com/sebastianlundquist/higher-or-lower/master/higher-or-lower.gif)
+
+### Number Shapes in Action
+![Currency Converter gif](https://raw.github.com/sebastianlundquist/number-shapes/master/number-shapes.gif)
+
+## Currency Converter
+This is the first app developed in the course and the project teaches the basics of setting up Android Studio projects, Android concepts and terminology, creating activities and editing layouts.
+
+[View on GitHub](https://github.com/sebastianlundquist/currency-converter)
+
+### What This Project Taught Me
+* How to edit layout XML files in Android Studio
+* How different layout constraints work
+* How to use gravity to align elements
+* How to use savedInstanceState
+* How to debug in Android Studio
+* How to use different types of text input
+* How to display Toast messages
+* How to use sp for accessibility scaling
+
+### Currency Converter in Action
+![Currency Converter gif](https://raw.github.com/sebastianlundquist/currency-converter/master/currency-converter.gif)
+
+## Extras
+These are other things I learned that are not connected to a specific app:
+* How to use adaptive icons
+* How to use custom fonts
+* How to play video
+* How to use autofill and autocomplete
+* How to use PictureInPicture mode
+* How to setup AR Core projects
+* How to Daydream VR projects
