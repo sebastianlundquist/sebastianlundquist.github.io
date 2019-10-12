@@ -162,7 +162,7 @@ These 'Hello World' style projects teach the basics of creating Flutter projects
 * How to work with the Material Design color system
 
 # The Complete Android Oreo Developer Course
-In October 2019 I [completed](https://udemy-certificate.s3.amazonaws.com/pdf/UC-S3HAZ49R.pdf) this course in native Android development with Java and Kotlin, and became a certified Java developer in the process! The course was taught by Rob Percival and Nick Walter. This post showcases the projects developed alongside the course.
+In October 2019 I [completed](https://udemy-certificate.s3.amazonaws.com/pdf/UC-S3HAZ49R.pdf) this course in native Android development with Java and Kotlin, and became a certified[[1]](CCA-Certificate-Java-Level-2-Sebastian-Lundquist.pdf)[[2]](CCA-Certificate-Java-Level-2-Sebastian-Lundquist.pdf) Java developer in the process! The course was taught by Rob Percival and Nick Walter. This post showcases the projects developed alongside the course.
 
 ## Snapchat Clone
 This app was written entirely in Kotlin and uses Firebase to store and send photos and messages between registered users. The photos and messages get automatically deleted when they are opened.
