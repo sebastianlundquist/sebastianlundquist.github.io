@@ -269,6 +269,30 @@ This simple app runs on your smartwatch and counts people (or anything, really).
 ### People Counter in Action
 ![People Counter gif](https://raw.github.com/sebastianlundquist/people-counter/master/people-counter.gif)
 
+## Bluetooth Discovery
+This app lists nearby Bluetooth devices.
+
+[View on GitHub](https://github.com/sebastianlundquist/bluetooth-discovery)
+
+### What This Project Taught Me
+* How to use BroadcastReceivers, BluetoothDevices and BluetoothAdapters
+* How to work with IntentFilters
+
+### Bluetooth Discovery in Action
+![Bluetooth Discovery gif](https://raw.github.com/sebastianlundquist/bluetooth-discovery/master/bluetooth-discovery.gif)
+
+## Hacker News
+This app allows the user to read news articles from Hacker News.
+
+[View on GitHub](https://github.com/sebastianlundquist/hacker-news)
+
+### What This Project Taught Me
+* How to setup and query SQLite databases in Android
+* How to use WebViews
+
+### Hacker News in Action
+![Hacker News gif](https://raw.github.com/sebastianlundquist/hacker-news/master/hacker-news.gif)
+
 ## Notes
 This app allows the user to take notes and save them to their device.
 
@@ -309,7 +333,7 @@ This app shows exactly where you are in the world. Useful if you ever get lost.
 * How to execute different code for different Android versions
 
 ### Hiker's Watch in Action
-![Hiker's Watch gif](https://raw.github.com/sebastianlundquist/hikers-watch/master/hikers-watch.gif)
+![Hiker's Watch](https://raw.github.com/sebastianlundquist/hikers-watch/master/hikers-watch.png)
 
 ## What's the Weather?
 This weather app uses the OpenWeatherMap API to display the weather conditions of a chosen location.
