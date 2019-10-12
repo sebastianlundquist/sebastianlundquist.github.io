@@ -269,6 +269,73 @@ This simple app runs on your smartwatch and counts people (or anything, really).
 ### People Counter in Action
 ![People Counter gif](https://raw.github.com/sebastianlundquist/people-counter/master/people-counter.gif)
 
+## Notes
+This app allows the user to take notes and save them to their device.
+
+[View on GitHub](https://github.com/sebastianlundquist/notes)
+
+### What This Project Taught Me
+* How to save user data to and read from SharedPreferences
+* How to customize the action bar and add menus
+* How to use Alert Dialogs
+
+### Notes in Action
+![Notes gif](https://raw.github.com/sebastianlundquist/notes/master/notes.gif)
+
+## Memorable Places
+This app allows the user to put markers on a map for places they've been to and want to remember.
+
+[View on GitHub](https://github.com/sebastianlundquist/memorable-places)
+
+### What This Project Taught Me
+* How to integrate Google Maps in your Android app
+* How to customize the appearance of the map
+* How to show the user's location on the map
+* How to use Intents to pass information and start new Activities
+
+### Memorable Places in Action
+![Memorable Places gif](https://raw.github.com/sebastianlundquist/memorable-places/master/memorable-places.gif)
+
+## Hiker's Watch
+This app shows exactly where you are in the world. Useful if you ever get lost.
+
+[View on GitHub](https://github.com/sebastianlundquist/hikers-watch)
+
+### What This Project Taught Me
+* How to request for user permissions and handle when they are given
+* How to get the current and last known location of the device
+* How to use GeoCoder to get the address from the device's coordinates
+* How to hide the app bar
+* How to execute different code for different Android versions
+
+### Hiker's Watch in Action
+![Hiker's Watch gif](https://raw.github.com/sebastianlundquist/hikers-watch/master/hikers-watch.gif)
+
+## What's the Weather?
+This weather app uses the OpenWeatherMap API to display the weather conditions of a chosen location.
+
+[View on GitHub](https://github.com/sebastianlundquist/whats-the-weather)
+
+### What This Project Taught Me
+* How to process JSON in Java
+* Regex in Java
+* How to select multiple layout elements and edit all their properties at once!
+
+### What's the Weather? in Action
+![What's the Weather? gif](https://raw.github.com/sebastianlundquist/whats-the-weather/master/whats-the-weather.gif)
+
+## Guess the Celebrity
+This game shows pictures of celebrities (dogs) and challenges the player to guess who it is. The project teaches how you can download and parse HTML in your Android app, but probably shouldn't.
+
+[View on GitHub](https://github.com/sebastianlundquist/guess-the-celebrity)
+
+### What This Project Taught Me
+* How to download and parse HTML pages
+* Advanced string manipulation in Java
+
+### Guess the Celebrity in Action
+![Guess the Celebrity gif](https://raw.github.com/sebastianlundquist/guess-the-celebrity/master/guess-the-celebrity.gif)
+
 ## Brain Trainer
 This game challenges the player to answer as many simple math questions as possible before the time runs out.
 
