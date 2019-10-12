@@ -1,5 +1,5 @@
 # The Complete Flutter Development Bootcamp with Dart
-In September 2019 I completed this course in Flutter development made in collaboration with the Google Flutter team and taught by Angela Yu. This post showcases the projects developed alongside the course.
+In September 2019 I [completed](https://udemy-certificate.s3.amazonaws.com/pdf/UC-YS1Y0Q6E.pdf) this course in Flutter development made in collaboration with the Google Flutter team and taught by Angela Yu. This post showcases the projects developed alongside the course.
 
 ## TODO List App
 This todo-list app uses the Provider state pattern for handling app state.
@@ -162,7 +162,7 @@ These 'Hello World' style projects teach the basics of creating Flutter projects
 * How to work with the Material Design color system
 
 # The Complete Android Oreo Developer Course
-In October 2019 I completed this course in native Android development with Java and Kotlin, and became a certified Java developer in the process! The course was taught by Rob Percival and Nick Walter. This post showcases the projects developed alongside the course.
+In October 2019 I [completed](https://udemy-certificate.s3.amazonaws.com/pdf/UC-S3HAZ49R.pdf) this course in native Android development with Java and Kotlin, and became a certified Java developer in the process! The course was taught by Rob Percival and Nick Walter. This post showcases the projects developed alongside the course.
 
 ## Snapchat Clone
 This app was written entirely in Kotlin and uses Firebase to store and send photos and messages between registered users. The photos and messages get automatically deleted when they are opened.
