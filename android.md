@@ -301,4 +301,4 @@ These are other things I learned that are not associated with a specific app:
 * How to use autofill and autocomplete
 * How to use PictureInPicture mode
 * How to setup AR Core projects
-* How to Daydream VR projects
+* How to setup Daydream VR projects
